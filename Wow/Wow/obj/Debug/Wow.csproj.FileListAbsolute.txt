@@ -1,0 +1,9 @@
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\bin\Debug\Wow.exe.config
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\bin\Debug\Wow.exe
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\bin\Debug\Wow.pdb
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\obj\Debug\Wow.csprojResolveAssemblyReference.cache
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\obj\Debug\Wow.Form1.resources
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\obj\Debug\Wow.Properties.Resources.resources
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\obj\Debug\Wow.csproj.GenerateResource.Cache
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\obj\Debug\Wow.exe
+c:\users\wendy.lee\documents\visual studio 2015\Projects\Wow\Wow\obj\Debug\Wow.pdb

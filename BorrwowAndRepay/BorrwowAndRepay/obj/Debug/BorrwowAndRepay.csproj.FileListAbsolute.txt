@@ -1,0 +1,9 @@
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\bin\Debug\BorrwowAndRepay.exe.config
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\bin\Debug\BorrwowAndRepay.exe
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\bin\Debug\BorrwowAndRepay.pdb
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\obj\Debug\BorrwowAndRepay.csprojResolveAssemblyReference.cache
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\obj\Debug\BorrwowAndRepay.Form1.resources
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\obj\Debug\BorrwowAndRepay.Properties.Resources.resources
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\obj\Debug\BorrwowAndRepay.csproj.GenerateResource.Cache
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\obj\Debug\BorrwowAndRepay.exe
+c:\users\wendy.lee\documents\visual studio 2015\Projects\BorrwowAndRepay\BorrwowAndRepay\obj\Debug\BorrwowAndRepay.pdb
