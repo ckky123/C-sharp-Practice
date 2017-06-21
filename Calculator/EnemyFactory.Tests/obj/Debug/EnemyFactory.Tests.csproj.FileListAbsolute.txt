@@ -1,0 +1,9 @@
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\bin\Debug\EnemyFactory.Tests.dll
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\bin\Debug\EnemyFactory.Tests.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\bin\Debug\EnemyFactory.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\bin\Debug\nunit.framework.dll
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\bin\Debug\EnemyFactory.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\bin\Debug\nunit.framework.xml
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\obj\Debug\EnemyFactory.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\obj\Debug\EnemyFactory.Tests.dll
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory.Tests\obj\Debug\EnemyFactory.Tests.pdb

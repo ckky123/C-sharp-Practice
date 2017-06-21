@@ -1,0 +1,6 @@
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\PlayerCharacter\bin\Debug\PlayerCharacter.exe.config
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\PlayerCharacter\bin\Debug\PlayerCharacter.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\PlayerCharacter\bin\Debug\PlayerCharacter.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\PlayerCharacter\obj\Debug\PlayerCharacter.csprojResolveAssemblyReference.cache
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\PlayerCharacter\obj\Debug\PlayerCharacter.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\PlayerCharacter\obj\Debug\PlayerCharacter.pdb

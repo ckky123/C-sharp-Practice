@@ -1,0 +1,6 @@
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\SpecialDateStore\obj\Debug\SpecialDateStore.csprojResolveAssemblyReference.cache
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\SpecialDateStore\bin\Debug\SpecialDateStore.exe.config
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\SpecialDateStore\bin\Debug\SpecialDateStore.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\SpecialDateStore\bin\Debug\SpecialDateStore.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\SpecialDateStore\obj\Debug\SpecialDateStore.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\SpecialDateStore\obj\Debug\SpecialDateStore.pdb

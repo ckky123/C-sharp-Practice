@@ -1,0 +1,6 @@
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory\bin\Debug\EnemyFactory.exe.config
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory\bin\Debug\EnemyFactory.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory\bin\Debug\EnemyFactory.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory\obj\Debug\EnemyFactory.csprojResolveAssemblyReference.cache
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory\obj\Debug\EnemyFactory.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\EnemyFactory\obj\Debug\EnemyFactory.pdb

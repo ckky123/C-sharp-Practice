@@ -1,0 +1,6 @@
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner\obj\Debug\NameJoiner.csprojResolveAssemblyReference.cache
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner\bin\Debug\NameJoiner.exe.config
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner\bin\Debug\NameJoiner.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner\bin\Debug\NameJoiner.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner\obj\Debug\NameJoiner.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner\obj\Debug\NameJoiner.pdb

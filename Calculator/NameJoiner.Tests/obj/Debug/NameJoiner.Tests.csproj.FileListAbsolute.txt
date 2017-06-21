@@ -1,0 +1,9 @@
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\obj\Debug\NameJoiner.Tests.csprojResolveAssemblyReference.cache
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\bin\Debug\NameJoiner.Tests.dll
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\bin\Debug\NameJoiner.Tests.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\bin\Debug\NameJoiner.exe
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\bin\Debug\nunit.framework.dll
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\bin\Debug\NameJoiner.pdb
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\bin\Debug\nunit.framework.xml
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\obj\Debug\NameJoiner.Tests.dll
+C:\Users\wendy.lee\Documents\Visual Studio 2015\Projects\Calculator\NameJoiner.Tests\obj\Debug\NameJoiner.Tests.pdb
